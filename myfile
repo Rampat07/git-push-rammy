@@ -2,3 +2,4 @@ a = int(input("Enter your number"))
 b= int(input("Enter your 2nd number"))
 total= a+b
 print("Th total number is :", total)
+print("Successfully")
